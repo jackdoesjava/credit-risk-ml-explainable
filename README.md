@@ -61,11 +61,7 @@ This project builds a full machine learning pipeline to predict credit risk usin
    git clone https://github.com/jackdoesjava/credit-risk-prediction-ml.git
    cd credit-risk-prediction-ml
 
-2. Crate a venv and install dependencies
-  python -m venv venv
-  source venv/bin/activate  # or venv\Scripts\activate on Windows
-  pip install -r requirements.txt
+2. Create a venv and install dependencies
 
 3. Open the notebook
-  jupyter notebook
 
